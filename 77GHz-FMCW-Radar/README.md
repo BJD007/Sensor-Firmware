@@ -15,4 +15,4 @@ Hardware-Specific Configurations: Adjust the hardware configuration code to matc
 Performance Optimizations: Depending on the processing power available, you may need to optimize the FFT and CFAR processing steps further.
 
 The code provides a comprehensive starting point for developing a radar signal processing chain for a 77GHz radar system. You can further customize and expand its functionality based on your specific requirements and the characteristics of your radar hardware.
-Created on 2019-05-03
+Created on 2019-05-03% Readme

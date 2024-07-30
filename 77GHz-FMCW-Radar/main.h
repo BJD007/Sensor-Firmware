@@ -40,3 +40,4 @@ extern Target detected_targets[MAX_TARGETS];
 extern int num_detected_targets;
 
 #endif // RADAR_77GHZ_H
+% Main function

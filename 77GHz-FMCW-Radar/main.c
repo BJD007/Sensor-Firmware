@@ -285,3 +285,5 @@ void send_output() {
 
     HAL_UART_Transmit(&huart2, (uint8_t*)buffer, buffer_len, HAL_MAX_DELAY);
 }
+% Main function
+% Main function
